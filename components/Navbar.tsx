@@ -18,7 +18,11 @@ export default function Navbar() {
     <header className="border-b border-gray-200 bg-white">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Link href="/" className="text-2xl font-extrabold tracking-tight text-slate-800">
-          Keen<span className="text-emerald-900">Keeper</span>
+          <img
+            src="/logo.png"
+            alt="KeenKeeper Logo"
+            className="h-10 w-auto"
+          />
         </Link>
 
         <nav className="flex items-center gap-2 sm:gap-4">
