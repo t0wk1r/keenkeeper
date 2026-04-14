@@ -1,13 +1,16 @@
 import { FaFacebookF, FaInstagram, FaXTwitter } from 'react-icons/fa6';
+import Link from 'next/link';
 
 export default function Footer() {
   return (
     <footer className="mt-16 bg-[#145B47] text-white">
       <div className="mx-auto max-w-7xl px-4 py-16 text-center sm:px-6 lg:px-8">
-        <h2 className="text-5xl font-extrabold tracking-tight sm:text-7xl">
-          KeenKeeper
-        </h2>
-
+          <Link href="/" className="flex justify-center">
+          <img
+            src="/logo-light.png"
+            alt="KeenKeeper Logo"
+          />
+        </Link>
         <p className="mx-auto mt-6 max-w-3xl text-sm text-white/95 sm:text-lg">
           Your personal shelf of meaningful connections. Browse, tend, and nurture the
           relationships that matter most.
