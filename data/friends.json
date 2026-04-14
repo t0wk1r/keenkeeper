@@ -70,5 +70,53 @@
     "bio": "Imran is energetic and competitive. We often chat about workouts, games, and productivity.",
     "goal": 30,
     "next_due_date": "2026-04-15"
-    }
+  },
+  {
+    "id": 7,
+    "name": "Meherun Nessa",
+    "picture": "https://i.pravatar.cc/300?img=5",
+    "email": "meherun.nessa@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["Knitting", "Poetry"],
+    "bio": "Meherun is creative and calm. We connect through books, crafts, and meaningful conversations.",
+    "goal": 10,
+    "next_due_date": "2026-04-29"
+  },
+  {
+    "id": 8,
+    "name": "Kamal Bashir",
+    "picture": "https://i.pravatar.cc/300?img=11",
+    "email": "kamal.bashir@example.com",
+    "days_since_contact": 51,
+    "status": "overdue",
+    "tags": ["Football", "Coding"],
+    "bio": "Kamal is a tech-loving friend who also enjoys sports. Our chats usually mix fun and problem-solving.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 9,
+    "name": "Priya Sharma",
+    "picture": "https://i.pravatar.cc/300?img=20",
+    "email": "priya.sharma@example.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["Yoga", "Cooking"],
+    "bio": "Priya is positive and balanced. We share recipes, wellness ideas, and small daily updates.",
+    "goal": 14,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 10,
+    "name": "Fahim Iqbal",
+    "picture": "https://i.pravatar.cc/300?img=68",
+    "email": "fahim.iqbal@example.com",
+    "days_since_contact": 22,
+    "status": "almost due",
+    "tags": ["Reading", "Swimming"],
+    "bio": "Fahim is reflective and curious. We stay connected through deep talks and shared learning goals.",
+    "goal": 25,
+    "next_due_date": "2026-04-17"
+  }
 ]
