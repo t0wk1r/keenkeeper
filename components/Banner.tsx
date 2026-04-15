@@ -3,7 +3,7 @@ import { UserPlus } from 'lucide-react';
 export default function Banner() {
   return (
     <section className="px-4 pt-14 text-center sm:px-6 lg:px-8">
-      <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl lg:text-6xl">
+      <h1 className="text-5xl font-bold tracking-tight text-slate-900 sm:text-5xl lg:text-5xl">
         Friends to keep close in your life
       </h1>
       <p className="mx-auto mt-5 max-w-3xl text-sm text-slate-500 sm:text-lg">
